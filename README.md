@@ -33,6 +33,6 @@ The URL of the deployed application: https://nataliecampbellgit.github.io/Inscri
 The URL of the GitHub repository: https://github.com/NatalieCampbellGit/InscriberInterceptor
 
 ## Preview 
-![image1](./images/index.PNG)
+![image1](./Images/index.PNG)
 
 
